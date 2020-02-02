@@ -1,0 +1,7 @@
+
+# Gradle 숨김 폴더 무시
+.gradle/
+
+# IntelliJ 개인 설정 파일 무시
+.idea/
+
